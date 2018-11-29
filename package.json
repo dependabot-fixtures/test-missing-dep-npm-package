@@ -1,6 +1,6 @@
 {
   "name": "test-missing-dep-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dependabot-fixtures/test-missing-dep-npm-package#readme",
   "dependencies": {
-    "etag": "^1.8.1"
+    "etag": "1.8.2"
   }
 }
