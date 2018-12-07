@@ -1,6 +1,6 @@
 {
-  "name": "test-missing-dep-npm-package",
-  "version": "1.0.1",
+  "name": "test-missing-dep-version-npm-package",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dependabot-fixtures/test-missing-dep-npm-package.git"
+    "url": "git+https://github.com/dependabot-fixtures/test-missing-dep-version-npm-package.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dependabot-fixtures/test-missing-dep-npm-package/issues"
+    "url": "https://github.com/dependabot-fixtures/test-missing-dep-version-npm-package/issues"
   },
-  "homepage": "https://github.com/dependabot-fixtures/test-missing-dep-npm-package#readme",
+  "homepage": "https://github.com/dependabot-fixtures/test-missing-dep-version-npm-package#readme",
   "dependencies": {
-    "etag": "1.8.2"
+    "etag": "1.8.1"
   }
 }
